@@ -1,0 +1,31 @@
+## Interface: 110007
+## Title: GuildHelper
+## Notes: An addon to manage guild communications and member information.
+## Author: FatherRahl\HereTanky - JB
+## Version: 1.0.23f
+## SavedVariables: GuildHelper_SavedVariables
+
+Core/Main.lua
+Core/Functions.lua
+Core/Functions2.lua
+Core/Functions3.lua
+Interface/Interface.lua
+Modules/json.lua
+Modules/DataSyncHandler.lua
+Core/AddOnEvents.lua
+Modules/Misc.lua
+Modules/DataSyncManager.lua
+Modules/WorkflowManager.lua
+Modules/Maintenance.lua
+Modules/GuildChat.lua
+Interface/RosterPane.lua
+Interface/InfoPane.lua
+Interface/NewsPane.lua
+Interface/MemberPane.lua
+Interface/CalendarPane.lua
+Interface/SetupPane.lua
+Interface/ChatPane.lua
+Interface/GroupsPane.lua
+Interface/DataSync.lua
+Interface/MaintenancePane.lua
+Interface/NavButtons.lua
